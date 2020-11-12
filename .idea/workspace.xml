@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b11c575-5954-4fc6-9811-3c446586a322" name="Default" comment="" />
+    <list default="true" id="4b11c575-5954-4fc6-9811-3c446586a322" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -35,6 +40,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1k8RYLzdfSLbwAKV66mm6lPAD1Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -175,11 +181,11 @@
     <list>
       <item itemvalue="Application.TestMulti" />
       <item itemvalue="JUnit.SpringbootRedisApplicationTests.contextLoads" />
-      <item itemvalue="Spring Boot.SpringbootRedisApplication" />
-      <item itemvalue="Spring Boot.DemoApplication" />
       <item itemvalue="JUnit.DemoApplicationTests.contextLoads" />
       <item itemvalue="JUnit.DemoApplicationTests.test1" />
       <item itemvalue="JUnit.SpringbootRedisApplicationTests.test" />
+      <item itemvalue="Spring Boot.SpringbootRedisApplication" />
+      <item itemvalue="Spring Boot.DemoApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -216,6 +222,7 @@
       <workItem from="1584944185923" duration="4275000" />
       <workItem from="1585037894971" duration="2512000" />
       <workItem from="1605080284336" duration="9676000" />
+      <workItem from="1605189515067" duration="351000" />
     </task>
     <servers />
   </component>
@@ -239,9 +246,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1876" height="575" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1605100508169" />
-    <state x="640" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1605080288708">
+    <state x="640" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1605189517616">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
+    <state x="640" y="364" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605189517616" />
     <state x="640" y="364" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605080288708" />
     <state x="2254" y="241" key="new project wizard" timestamp="1605082795228">
       <screen x="1920" y="0" width="1920" height="1080" />
